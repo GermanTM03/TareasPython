@@ -1,0 +1,9 @@
+Nombre: German
+Apellidos: Torres Matos
+Curp: TOMGADASD
+Edad: 20
+Domicilio: Calle 61asdadasdad
+FEchaDeNacimiento: 13 de agosto
+Vigencia: 2021
+Año_Registro: 2122
+Genero: H
